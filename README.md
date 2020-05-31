@@ -1,2 +1,2 @@
 # datapolis
-Utilities and abstractions for processing data in Rust
+Utilities and abstractions for processing data flows in Rust
